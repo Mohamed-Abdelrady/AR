@@ -1,0 +1,246 @@
+[
+  {
+    "image": "arabsoasis",
+    "bg": "arabsoasis_bg",
+    "title": "Arabs Oasis",
+    "desc": "",
+    "link": "https://arabsoasis.com/",
+    "skills": ["HTML", "CSS", "Javascript", "SallaSa"]
+  },
+  {
+    "image": "atmac",
+    "bg": "atmac_bg",
+    "title": "Atmac Construction",
+    "desc": "",
+    "link": "https://www.atmac.co.uk/",
+    "skills": ["HTML", "CSS", "jQuery", "Bootstrap"]
+  },
+  {
+    "image": "bestbargainjunkremoval",
+    "bg": "bestbargainjunkremoval_bg",
+    "title": "Best Bargain Junk Removal",
+    "desc": "",
+    "link": "https://bestbargainjunkremoval.com/",
+    "skills": ["HTML", "CSS", "Javascript", "Wordpress"]
+  },
+  {
+    "image": "buyproperty",
+    "bg": "buyproperty_bg",
+    "title": "Buy Property",
+    "desc": "",
+    "link": "https://buyproperty.com/en/properties.php?district=beja",
+    "skills": ["HTML", "CSS", "Javascript", "Bootstrap"]
+  },
+  {
+    "image": "cpcapital",
+    "bg": "cpcapital_bg",
+    "title": "Cp Capital",
+    "desc": "",
+    "link": "https://www.cpcapital.com/",
+    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "Responsive Design"]
+  },
+  {
+    "image": "crowdproperty",
+    "bg": "crowdproperty_bg",
+    "title": "Crowd Property",
+    "desc": "",
+    "link": "https://www.crowdproperty.com/",
+    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "Responsive Design"]
+  },
+  {
+    "image": "energyunited",
+    "bg": "energyunited_bg",
+    "title": "Energy United",
+    "desc": "",
+    "link": "https://www.energyunited.com/cooperative-responsibility-sustainability-report/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Animation",
+      "Javascript",
+      "Bootstrap",
+      "Wordpress"
+    ]
+  },
+  {
+    "image": "exitek",
+    "bg": "exitek_bg",
+    "title": "Exitek",
+    "desc": "",
+    "link": "https://www.exitek.io/",
+    "skills": ["HTML", "CSS", "Animation", "jQuery", "GoogleSheets"]
+  },
+  {
+    "image": "independesk",
+    "bg": "independesk_bg",
+    "title": "Independesk GMBH",
+    "desc": "",
+    "link": "https://www.independesk.com/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "jQuery",
+      "Bootstrap",
+      "DataTables",
+      "Responsive Design"
+    ]
+  },
+  {
+    "image": "josephosorio",
+    "bg": "josephosorio_bg",
+    "title": "Joseph Osorio Profile",
+    "desc": "",
+    "link": "https://josephosorio.dev/",
+    "skills": ["HTML", "CSS", "Animation", "Javascript"]
+  },
+  {
+    "image": "peopledesigns",
+    "bg": "peopledesigns_bg",
+    "title": "People Designs",
+    "desc": "",
+    "link": "https://www.peopledesigns.com/",
+    "skills": ["HTML", "CSS", "Javascript", "Bootstrap"]
+  },
+  {
+    "image": "rctradiology",
+    "bg": "rctradiology_bg",
+    "title": "Radiology Consultants of Tulsa",
+    "desc": "",
+    "link": "https://www.rctradiology.com/",
+    "skills": ["HTML", "CSS", "jQuery", "Responsive Design"]
+  },
+  {
+    "image": "screensrefurbished",
+    "bg": "screensrefurbished_bg",
+    "title": "Screens Refurbished",
+    "desc": "",
+    "link": "https://screensrefurbished.co.uk/screen-refurbishment-consultation/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Animation",
+      "Javascript",
+      "Bootstrap",
+      "Wordpress",
+      "GoogleSheets"
+    ]
+  },
+  {
+    "image": "searchtires",
+    "bg": "searchtires_bg",
+    "title": "Search Tires",
+    "desc": "",
+    "link": "https://searchtires.com/",
+    "skills": ["HTML", "CSS", "Responsive Design"]
+  },
+  {
+    "image": "sodic",
+    "bg": "sodic_bg",
+    "title": "Sodic",
+    "desc": "",
+    "link": "https://www.sodic.com/",
+    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "Responsive Design"]
+  },
+  {
+    "image": "tannahills",
+    "bg": "tannahills_bg",
+    "title": "Tanna Hills",
+    "desc": "",
+    "link": "https://tannahills.webflow.io/private-events",
+    "skills": ["HTML", "CSS", "Javascript", "Tripleseat", "Webflow"]
+  },
+  {
+    "image": "thejunkguy",
+    "bg": "thejunkguy_bg",
+    "title": "The Junk Guy",
+    "desc": "",
+    "link": "https://www.thejunkguy.ca/",
+    "skills": ["HTML", "CSS", "Javascript", "Responsive Design", "Wordpress"]
+  },
+  {
+    "image": "ukatomics",
+    "bg": "ukatomics_bg",
+    "title": "UK Atomics",
+    "desc": "",
+    "link": "https://ukatomics.azurewebsites.net/",
+    "skills": ["HTML", "CSS", "jQuery", "Bootstrap"]
+  },
+  {
+    "image": "virualm",
+    "bg": "virualm_bg",
+    "title": "VirtualM",
+    "desc": "",
+    "link": "",
+    "skills": ["HTML", "CSS", "Javascript", "Bootstrap"]
+  },
+  {
+    "image": "betgame",
+    "bg": "betgame_bg",
+    "title": "Bet Game",
+    "desc": "",
+    "link": "",
+    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "Responsive Design"]
+  },
+  {
+    "image": "golatoapp",
+    "bg": "golatoapp_bg",
+    "title": "Golato App",
+    "desc": "",
+    "link": "https://golatoapp.com/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "jQuery",
+      "Bootstrap",
+      "Landing Page",
+      "Responsive Design"
+    ]
+  },
+  {
+    "image": "diasporadoctors",
+    "bg": "diasporadoctors_bg",
+    "title": "Diaspora Doctors",
+    "desc": "",
+    "link": "https://diasporadoctors.com/",
+    "skills": ["HTML", "CSS", "jQuery", "Bootstrap"]
+  },
+  {
+    "image": "mfnetwork",
+    "bg": "mfnetwork_bg",
+    "title": "MF Network",
+    "desc": "",
+    "link": "https://mfnetwork.fr/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "jQuery",
+      "Bootstrap",
+      "Landing Page",
+      "Responsive Design"
+    ]
+  },
+  {
+    "image": "scopebuilder",
+    "bg": "scopebuilder_bg",
+    "title": "Scope Builder",
+    "desc": "",
+    "link": "",
+    "skills": ["HTML", "CSS", "jQuery", "Responsive Design"]
+  },
+  {
+    "image": "coinsteller",
+    "bg": "coinsteller_bg",
+    "title": "Coins Teller",
+    "desc": "",
+    "link": "",
+    "skills": ["HTML", "CSS", "jQuery", "Responsive Design"]
+  },
+  {
+    "image": "refseek",
+    "bg": "refseek_bg",
+    "title": "Refseek",
+    "desc": "",
+    "link": "https://www.refseek.com/",
+    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "RTL", "Responsive Design"]
+  }
+]

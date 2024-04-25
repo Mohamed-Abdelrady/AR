@@ -1,0 +1,42 @@
+[
+  {
+    "name": "HTML",
+    "icon": "html"
+  },
+  {
+    "name": "CSS",
+    "icon": "css"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "javascript"
+  },
+  {
+    "name": "Wordpress",
+    "icon": "wordpress"
+  },
+  {
+    "name": "Liquid",
+    "icon": "liquid"
+  },
+  {
+    "name": "Webflow",
+    "icon": "webflow"
+  },
+  {
+    "name": "jQuery",
+    "icon": "jquery"
+  },
+  {
+    "name": "Sass",
+    "icon": "sass"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "bootstrap"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "tailwind"
+  }
+]
