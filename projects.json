@@ -242,5 +242,67 @@
     "desc": "",
     "link": "https://www.refseek.com/",
     "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "RTL", "Responsive Design"]
+  },
+  {
+    "image": "likvio",
+    "bg": "likvio_bg",
+    "title": "Likvio",
+    "desc": "",
+    "link": "https://www.likvio.se/",
+    "skills": ["HTML", "CSS", "Bootstrap", "Responsive Design"]
+  },
+  {
+    "image": "metasoccer",
+    "bg": "metasoccer_bg",
+    "title": "Metasoccer",
+    "desc": "",
+    "link": "https://metasoccer.com/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Webflow",
+      "Landing Page",
+      "Animation",
+      "Responsive Design"
+    ]
+  },
+  {
+    "image": "eraf",
+    "bg": "eraf_bg",
+    "title": "E-Raf",
+    "desc": "",
+    "link": "https://e-raf.aspdkw.com/pages/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%A8%D9%85%D8%AC%D9%84%D8%A9-mit-sloan",
+    "skills": [
+      "HTML",
+      "CSS",
+      "RTL",
+      "Landing Page",
+      "Animation",
+      "Responsive Design"
+    ]
+  },
+  {
+    "image": "olympus",
+    "bg": "olympus_bg",
+    "title": "Olympus Game",
+    "desc": "",
+    "link": "https://olympus.game/",
+    "skills": ["HTML", "CSS", "Landing Page", "GASAP", "Responsive Design"]
+  },
+  {
+    "image": "casttypesd",
+    "bg": "casttypes_bgd",
+    "title": "Cast Types dark",
+    "desc": "",
+    "link": "",
+    "skills": ["HTML", "CSS", "Landing Page", "GASAP", "Responsive Design"]
+  },
+  {
+    "image": "casttypesl",
+    "bg": "casttypes_bgl",
+    "title": "Cast Types light",
+    "desc": "",
+    "link": "",
+    "skills": ["HTML", "CSS", "Landing Page", "GASAP", "Responsive Design"]
   }
 ]
