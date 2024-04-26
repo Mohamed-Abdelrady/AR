@@ -290,17 +290,9 @@
     "skills": ["HTML", "CSS", "Landing Page", "GASAP", "Responsive Design"]
   },
   {
-    "image": "casttypesd",
-    "bg": "casttypes_bgd",
-    "title": "Cast Types dark",
-    "desc": "",
-    "link": "",
-    "skills": ["HTML", "CSS", "Landing Page", "GASAP", "Responsive Design"]
-  },
-  {
-    "image": "casttypesl",
-    "bg": "casttypes_bgl",
-    "title": "Cast Types light",
+    "image": "casttypes",
+    "bg": "casttypes_bg",
+    "title": "Cast Types",
     "desc": "",
     "link": "",
     "skills": ["HTML", "CSS", "Landing Page", "GASAP", "Responsive Design"]
