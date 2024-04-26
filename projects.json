@@ -294,7 +294,39 @@
     "bg": "casttypes_bg",
     "title": "Cast Types",
     "desc": "",
-    "link": "",
+    "link": "https://casttypes.com/",
     "skills": ["HTML", "CSS", "Landing Page", "GASAP", "Responsive Design"]
+  },
+  {
+    "image": "umart",
+    "bg": "umart_bg",
+    "title": "U Mart",
+    "desc": "",
+    "link": "",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Javascript",
+      "RTL",
+      "Responsive Design",
+      "Wordpress"
+    ]
+  },
+  {
+    "image": "fele3eb",
+    "bg": "fele3eb_bg",
+    "title": "Feele3eb",
+    "desc": "",
+    "link": "https://fele3eb.com/",
+    "skills": ["HTML", "CSS", "jQuery", "RTL", "Responsive Design", "WepApp"]
+  },
+  {
+    "image": "lavastonespa",
+    "bg": "lavastonespa_bg",
+    "title": "Lava Stone Spa",
+    "desc": "",
+    "link": "",
+    "skills": ["HTML", "CSS", "jQuery", "RTL", "Responsive Design", "WepApp"]
   }
 ]
