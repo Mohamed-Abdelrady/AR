@@ -1,332 +1,391 @@
 [
   {
     "image": "arabsoasis",
-    "bg": "arabsoasis_bg",
+    "image_hover": "arabsoasis_hover",
     "title": "Arabs Oasis",
-    "desc": "",
+    "popTitle": "Comprehensive Redesign of Arabsoasis on SallaSa.",
+    "desc": "Commissioned to revitalize the visual identity and user experience of Arabsoasis on the SallaSa platform, I meticulously crafted a bespoke, modern design.<br/>Utilizing HTML, CSS, and JavaScript, I delivered a responsive and visually engaging site that adapts flawlessly across devices.<br/>The client's vision was realized with a beautifully transformed web presence that speaks volumes of its brand, ensuring their full satisfaction.",
     "link": "https://arabsoasis.com/",
-    "skills": ["HTML", "CSS", "Javascript", "SallaSa"]
+    "skills": ["HTML", "CSS", "JavaScript", "SallaSa", "Responsive Design"]
   },
   {
-    "image": "atmac",
-    "bg": "atmac_bg",
-    "title": "Atmac Construction",
-    "desc": "",
-    "link": "https://www.atmac.co.uk/",
-    "skills": ["HTML", "CSS", "jQuery", "Bootstrap"]
-  },
-  {
-    "image": "bestbargainjunkremoval",
-    "bg": "bestbargainjunkremoval_bg",
-    "title": "Best Bargain Junk Removal",
-    "desc": "",
-    "link": "https://bestbargainjunkremoval.com/",
-    "skills": ["HTML", "CSS", "Javascript", "Wordpress"]
-  },
-  {
-    "image": "buyproperty",
-    "bg": "buyproperty_bg",
-    "title": "Buy Property",
-    "desc": "",
-    "link": "https://buyproperty.com/en/properties.php?district=beja",
-    "skills": ["HTML", "CSS", "Javascript", "Bootstrap"]
-  },
-  {
-    "image": "cpcapital",
-    "bg": "cpcapital_bg",
-    "title": "Cp Capital",
-    "desc": "",
-    "link": "https://www.cpcapital.com/",
-    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "Responsive Design"]
-  },
-  {
-    "image": "crowdproperty",
-    "bg": "crowdproperty_bg",
-    "title": "Crowd Property",
-    "desc": "",
-    "link": "https://www.crowdproperty.com/",
-    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "Responsive Design"]
-  },
-  {
-    "image": "energyunited",
-    "bg": "energyunited_bg",
-    "title": "Energy United",
-    "desc": "",
-    "link": "https://www.energyunited.com/cooperative-responsibility-sustainability-report/",
+    "image": "golatoapp",
+    "image_hover": "golatoapp_hover",
+    "title": "Golato App",
+    "popTitle": "Bilingual landing page from Figma: Responsive & User-Friendly.",
+    "desc": "I successfully transformed a Figma design into a fully functional, bilingual website for Golatoapp, seamlessly supporting both Arabic and English languages with RTL and LTR layouts.<br/>My work included meticulous HTML/CSS/JS development, integrating Bootstrap for responsive design across devices, custom creating a user-friendly login popup to enhance user experience, and creating a striking landing page that caters to a diverse audience.",
+    "link": "https://golatoapp.com/",
     "skills": [
       "HTML",
       "CSS",
-      "Animation",
-      "Javascript",
-      "Bootstrap",
-      "Wordpress"
+      "RTL",
+      "BootStrap",
+      "Landing Page",
+      "jQuery",
+      "Responsive Design"
     ]
   },
   {
-    "image": "exitek",
-    "bg": "exitek_bg",
-    "title": "Exitek",
-    "desc": "",
-    "link": "https://www.exitek.io/",
-    "skills": ["HTML", "CSS", "Animation", "jQuery", "GoogleSheets"]
-  },
-  {
-    "image": "independesk",
-    "bg": "independesk_bg",
-    "title": "Independesk GMBH",
-    "desc": "",
-    "link": "https://www.independesk.com/",
+    "image": "cpcapital",
+    "image_hover": "cpcapital_hover",
+    "title": "Cp Capital",
+    "popTitle": "InVision to HTML/CSS/JS Conversion for CP Capital.",
+    "desc": "I led CP Capital's website creation, turning InVision designs into a responsive and interactive platform with modern HTML, CSS, and JS.<br/>My work, tightly integrated with backend systems for fluid user experiences and dynamic data via DataTables, showcases a perfect blend of design and technical expertise.",
+    "link": "https://www.cpcapital.com/",
     "skills": [
       "HTML",
       "CSS",
       "jQuery",
-      "Bootstrap",
+      "BootStrap",
       "DataTables",
       "Responsive Design"
     ]
   },
   {
-    "image": "josephosorio",
-    "bg": "josephosorio_bg",
-    "title": "Joseph Osorio Profile",
-    "desc": "",
-    "link": "https://josephosorio.dev/",
-    "skills": ["HTML", "CSS", "Animation", "Javascript"]
-  },
-  {
-    "image": "peopledesigns",
-    "bg": "peopledesigns_bg",
-    "title": "People Designs",
-    "desc": "",
-    "link": "https://www.peopledesigns.com/",
-    "skills": ["HTML", "CSS", "Javascript", "Bootstrap"]
-  },
-  {
     "image": "rctradiology",
-    "bg": "rctradiology_bg",
+    "image_hover": "rctradiology_hover",
     "title": "Radiology Consultants of Tulsa",
-    "desc": "",
+    "popTitle": "RCT Website: Fast PSD to HTML/CSS Conversion.",
+    "desc": "Tasked with the urgent conversion of an intricate RCT radiology website from PSD to fully responsive HTML, CSS, and JavaScript, I tackled the project with a commitment to quality and speed.<br/>The client’s requirement for prompt delivery was met with expert coding and meticulous attention to responsive design details.<br/>Within an aggressive timeline of just 24 hours, exceeding the client’s expectations for promptness without compromising quality.",
     "link": "https://www.rctradiology.com/",
-    "skills": ["HTML", "CSS", "jQuery", "Responsive Design"]
+    "skills": ["HTML", "CSS", "JavaScript", "Responsive Design"]
   },
   {
-    "image": "screensrefurbished",
-    "bg": "screensrefurbished_bg",
-    "title": "Screens Refurbished",
-    "desc": "",
-    "link": "https://screensrefurbished.co.uk/screen-refurbishment-consultation/",
-    "skills": [
-      "HTML",
-      "CSS",
-      "Animation",
-      "Javascript",
-      "Bootstrap",
-      "Wordpress",
-      "GoogleSheets"
-    ]
+    "image": "buyproperty",
+    "image_hover": "buyproperty_hover",
+    "title": "Buy Property",
+    "popTitle": "Figma to HTML/CSS/JS Pro, Seamless PHP Integration.",
+    "desc": "Transformed BuyProperty's website, crafting and integrating responsive HTML/CSS/JS components for seamless functionality across devices.<br/>Merged design with PHP backend, ensuring uninterrupted operation.",
+    "link": "https://buyproperty.com/en/properties.php?district=beja",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP", "GitHub"]
   },
   {
-    "image": "searchtires",
-    "bg": "searchtires_bg",
-    "title": "Search Tires",
-    "desc": "",
-    "link": "https://searchtires.com/",
-    "skills": ["HTML", "CSS", "Responsive Design"]
-  },
-  {
-    "image": "sodic",
-    "bg": "sodic_bg",
-    "title": "Sodic",
-    "desc": "",
-    "link": "https://www.sodic.com/",
-    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "Responsive Design"]
-  },
-  {
-    "image": "tannahills",
-    "bg": "tannahills_bg",
-    "title": "Tanna Hills",
-    "desc": "",
-    "link": "https://tannahills.webflow.io/private-events",
-    "skills": ["HTML", "CSS", "Javascript", "Tripleseat", "Webflow"]
-  },
-  {
-    "image": "thejunkguy",
-    "bg": "thejunkguy_bg",
-    "title": "The Junk Guy",
-    "desc": "",
-    "link": "https://www.thejunkguy.ca/",
-    "skills": ["HTML", "CSS", "Javascript", "Responsive Design", "Wordpress"]
-  },
-  {
-    "image": "ukatomics",
-    "bg": "ukatomics_bg",
-    "title": "UK Atomics",
-    "desc": "",
-    "link": "https://ukatomics.azurewebsites.net/",
-    "skills": ["HTML", "CSS", "jQuery", "Bootstrap"]
-  },
-  {
-    "image": "virualm",
-    "bg": "virualm_bg",
-    "title": "VirtualM",
-    "desc": "",
-    "link": "",
-    "skills": ["HTML", "CSS", "Javascript", "Bootstrap"]
-  },
-  {
-    "image": "betgame",
-    "bg": "betgame_bg",
-    "title": "Bet Game",
-    "desc": "",
-    "link": "",
-    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "Responsive Design"]
-  },
-  {
-    "image": "golatoapp",
-    "bg": "golatoapp_bg",
-    "title": "Golato App",
-    "desc": "",
-    "link": "https://golatoapp.com/",
-    "skills": [
-      "HTML",
-      "CSS",
-      "jQuery",
-      "Bootstrap",
-      "Landing Page",
-      "Responsive Design"
-    ]
-  },
-  {
-    "image": "diasporadoctors",
-    "bg": "diasporadoctors_bg",
-    "title": "Diaspora Doctors",
-    "desc": "",
-    "link": "https://diasporadoctors.com/",
-    "skills": ["HTML", "CSS", "jQuery", "Bootstrap"]
+    "image": "likvio",
+    "image_hover": "likvio_hover",
+    "title": "Likvio",
+    "popTitle": "Likvio Dashboard: Figma Design Transformed to Responsive HTML/CSS/JS.",
+    "desc": "Frontend Dev expertise showcased in converting a 70-page Figma design to a responsive site.<br/>Using Bootstrap, HTML5, SCSS/CSS3, and JS, I crafted an engaging, cross-browser compatible user experience.",
+    "link": "https://www.likvio.se/",
+    "skills": ["HTML", "CSS3", "BootStrap", "SCSS", "Responsive Design"]
   },
   {
     "image": "mfnetwork",
-    "bg": "mfnetwork_bg",
+    "image_hover": "mfnetwork_hover",
     "title": "MF Network",
-    "desc": "",
+    "popTitle": "Pixel-Perfect Responsive Landing Page from XD - MFNetwork.",
+    "desc": "Tasked with converting a detailed Adobe XD design into a live, interactable landing page, I meticulously developed MFNetwork with adherence to the original vision.<br/>The project entailed crafting a fully responsive HTML5/CSS3/JS webpage, optimized for performance across browsers and devices.<br/>Emphasis was placed on mobile responsiveness and dynamic content presentation, utilizing the Bootstrap framework to ensure design fluidity on smartphones and tablets.",
     "link": "https://mfnetwork.fr/",
     "skills": [
       "HTML",
       "CSS",
       "jQuery",
-      "Bootstrap",
+      "BootStrap",
       "Landing Page",
       "Responsive Design"
     ]
   },
   {
-    "image": "scopebuilder",
-    "bg": "scopebuilder_bg",
-    "title": "Scope Builder",
-    "desc": "",
-    "link": "",
-    "skills": ["HTML", "CSS", "jQuery", "Responsive Design"]
-  },
-  {
-    "image": "coinsteller",
-    "bg": "coinsteller_bg",
-    "title": "Coins Teller",
-    "desc": "",
-    "link": "",
-    "skills": ["HTML", "CSS", "jQuery", "Responsive Design"]
-  },
-  {
-    "image": "refseek",
-    "bg": "refseek_bg",
-    "title": "Refseek",
-    "desc": "",
-    "link": "https://www.refseek.com/",
-    "skills": ["HTML", "CSS", "jQuery", "Bootstrap", "RTL", "Responsive Design"]
-  },
-  {
-    "image": "likvio",
-    "bg": "likvio_bg",
-    "title": "Likvio",
-    "desc": "",
-    "link": "https://www.likvio.se/",
-    "skills": ["HTML", "CSS", "Bootstrap", "Responsive Design"]
-  },
-  {
-    "image": "metasoccer",
-    "bg": "metasoccer_bg",
-    "title": "Metasoccer",
-    "desc": "",
-    "link": "https://metasoccer.com/",
+    "image": "exitek",
+    "image_hover": "exitek_hover",
+    "title": "Exitek",
+    "popTitle": "Figma to HTML/CSS/JS, AJAX, & Google Sheets Integration for Exitek.",
+    "desc": "Expertly converted Exitek's Figma design into a responsive, pixel-perfect website using advanced HTML/CSS/JavaScript techniques.<br/>The project featured AJAX for asynchronous data submission to Google Sheets, JSON integration for swift data handling, and elegant scroll animations for an enhanced UI/UX.<br/>This carefully crafted solution ensures Exitek.io visitors enjoy a seamless and interactive experience while browsing.",
+    "link": "https://www.exitek.io/",
     "skills": [
       "HTML",
       "CSS",
-      "Webflow",
-      "Landing Page",
       "Animation",
+      "jQuery",
+      "JSON",
+      "AJAX",
+      "GoogleSheets"
+    ]
+  },
+  {
+    "image": "energyunited",
+    "image_hover": "energyunited_hover",
+    "title": "Energy United",
+    "popTitle": "Responsive Animated HTML/CSS from Figma with JS and WP Integration.",
+    "desc": "Delivered a high-fidelity, responsive HTML/CSS conversion from Figma designs with custom scroll animations, elevating the user experience for ScreensRefurbished.co.uk's consultation page.<br/>Skillfully integrated an interactive form that channels submissions into a Google Sheets database for streamlined client management.<br/>Crafted and embedded the finished code into the site’s WordPress framework, balancing aesthetics with functionality.",
+    "link": "https://www.energyunited.com/cooperative-responsibility-sustainability-report/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "BootStrap",
+      "Animation",
+      "JavaScript",
+      "WordPress"
+    ]
+  },
+  {
+    "image": "screensrefurbished",
+    "image_hover": "screensrefurbished_hover",
+    "title": "Screens Refurbished",
+    "popTitle": "Responsive Animated HTML/CSS from Figma with JS and WP Integration.",
+    "desc": "Delivered a high-fidelity, responsive HTML/CSS conversion from Figma designs with custom scroll animations, elevating the user experience for ScreensRefurbished.co.uk's consultation page.<br/>Skillfully integrated an interactive form that channels submissions into a Google Sheets database for streamlined client management.<br/>Crafted and embedded the finished code into the site’s WordPress framework, balancing aesthetics with functionality.",
+    "link": "https://screensrefurbished.co.uk/screen-refurbishment-consultation/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Animation",
+      "JavaScript",
+      "WordPress",
+      "GoogleSheets"
+    ]
+  },
+  {
+    "image": "josephosorio",
+    "image_hover": "josephosorio_hover",
+    "title": "Joseph Osorio Profile",
+    "popTitle": "Smooth Scrolling Landing Page from Figma Design to HTML/CSS/JS.",
+    "desc": "Successfully transitioned a Figma design into a fully responsive HTML/CSS/JavaScript landing page, featuring smooth scroll animations for enhanced user experience.<br/>Deployed the finished product to the client's hosting platform, ensuring seamless performance and visual fidelity, showcasing the polished interactivity and professional execution of web development skills, including HTML, CSS3, and JavaScript, culminating in a visually appealing and functional landing page.",
+    "link": "https://josephosorio.dev/",
+    "skills": ["HTML", "CSS", "Animation", "JavaScript", "Landing Page"]
+  },
+  {
+    "image": "independesk",
+    "image_hover": "independesk_hover",
+    "title": "Independesk GMBH",
+    "popTitle": "Cutting-edge Responsive Dashboard: Figma to HTML/CSS/JS for Independek.",
+    "desc": "I fully converted a complex Independek's dashboard from Figma designs into a responsive HTML/CSS/JavaScript website.<br/>My meticulous coding made intricate parts function seamlessly.<br/>I collaborated with backend and UI/UX designers to enhance user comfort, working through challenging components while maintaining perfect visual fidelity to the original design.<br/>The final website not only looks great across devices but also offers an intuitive user experience.",
+    "link": "https://www.independesk.com/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "BootStrap",
+      "DataTables",
       "Responsive Design"
     ]
   },
   {
+    "image": "searchtires",
+    "image_hover": "searchtires_hover",
+    "title": "Search Tires",
+    "popTitle": "Full-Site Redesign Implementation from Figma to PHP.",
+    "desc": "Revamped an entire website by meticulously adapting a new Figma design into the existing PHP architecture of SearchTires.<br/>Focused on preserving all site functionalities while infusing modern HTML, CSS, and Bootstrap elements.<br/>The overhaul was complemented with JavaScript enhancements to ensure visual and operational alignment with the cutting-edge Figma prototype.<br/>The deliverables underscored a balance between aesthetic upgradation and feature retention.",
+    "link": "https://searchtires.com/",
+    "skills": ["HTML", "CSS", "BootStrap", "JavaScript", "Responsive Design"]
+  },
+  {
+    "image": "refseek",
+    "image_hover": "refseek_hover",
+    "title": "Refseek",
+    "popTitle": "RTL Implementation and Bilingual Interface Creation for RefSeek.",
+    "desc": "Developed an RTL CSS framework for the RefSeek search engine, transitioning the site from an English to an Arabic interface.<br/>Utilized CSS, RTL methodologies, and JavaScript to ensure a seamless user experience for Arabic-speaking users.<br/>Deliverables included a fully responsive Arabic language site with dynamic layout switching capabilities.",
+    "link": "https://www.refseek.com/",
+    "skills": ["CSS", "JavaScript", "RTL"]
+  },
+  {
+    "image": "thejunkguy",
+    "image_hover": "thejunkguy_hover",
+    "title": "The Junk Guy",
+    "popTitle": "Custom Accordion Design & Development for Enhanced UX & Responsive Optimization.",
+    "desc": "I had the opportunity to overhaul The Junk Guy's website with a dual focus on interactive features and cross-device compatibility.<br/>My first task was to engineer a custom accordion component, aimed at streamlining the site's content structure.<br/>This element was meticulously coded using HTML, styled for visual harmony with CSS, and brought to life with JavaScript for dynamic content manipulation.<br/>The outcome was a user-centric, collapsible interface enhancing both the website's navigation and overall user engagement.<br/>In tandem with interactive features, I also addressed the website's responsiveness.<br/>Working from detailed instructions provided by the client via a Word document, I meticulously revised Bootstrap classes and integrated custom CSS media queries within PHP files.<br/>This ensured a fluid and adaptive layout across a multitude of screens, delivering a seamless and uniform experience for every user, regardless of their device.<br/>The project not only improved the visual aesthetics and functional appeal of the website but also demonstrated my ability to translate specific client requirements into impactful web enhancements.",
+    "link": "https://www.thejunkguy.ca/",
+    "skills": ["HTML", "CSS", "JavaScript", "Responsive Design", "WordPress"]
+  },
+  {
+    "image": "diasporadoctors",
+    "image_hover": "diasporadoctors_hover",
+    "title": "Diaspora Doctors",
+    "popTitle": "Dashboard Conversion for DiasporaDoctors from XD to HTML/CSS/JS.",
+    "desc": "Transformed an Adobe XD dashboard design into a live, responsive website for DiasporaDoctors.<br/>Leveraged HTML, CSS, and Bootstrap for adaptive layout, along with DataTables for interactive tables, and JavaScript for dynamic functionality.<br/>Ensured seamless user experience and cross-browser compatibility to support a diverse user base.",
+    "link": "https://diasporadoctors.com/",
+    "skills": ["HTML", "CSS", "jQuery", "BootStrap", "DataTables"]
+  },
+  {
+    "image": "tannahills",
+    "image_hover": "tannahills_hover",
+    "title": "Tanna Hills",
+    "popTitle": "Tripleseat API Form Integration and Webflow Responsive Redesign.",
+    "desc": "Successfully integrated a customized Tripleseat form via API on Tannahills, aligning with client specifications and enhancing the site's aesthetic and functionality.<br/>Applied HTML, CSS, and JavaScript to achieve a seamless look and feel.<br/>Following this, I tackled responsive design issues in WebFlow, ensuring optimal viewing experience across all devices, thus delivering a harmonized user interface and interaction.",
+    "link": "https://tannahills.webflow.io/private-events",
+    "skills": ["HTML", "CSS", "JavaScript", "Tripleseat", "Webflow"]
+  },
+  {
+    "image": "ukatomics",
+    "image_hover": "ukatomics_hover",
+    "title": "UK Atomics",
+    "popTitle": "Pixel-Perfect Responsive Landing Page Development from PDF Design.",
+    "desc": "Tasked with the creation of a pixel-perfect and fully responsive website for UK Atomics, I meticulously converted a PDF design into a live site.<br/>The project involved careful incorporation of the client's supplied font files to ensure brand consistency.<br/>I leveraged HTML and CSS to craft a landing page that is responsive on all screens, delivering a seamless viewing experience across a diverse array of devices.",
+    "link": "https://ukatomics.azurewebsites.net/",
+    "skills": ["HTML", "CSS", "Landing Page", "Responsive Design"]
+  },
+  {
+    "image": "sodic",
+    "image_hover": "sodic_hover",
+    "title": "Sodic",
+    "popTitle": "Figma to HTML/CSS Components for Sodic Dashboard.",
+    "desc": "Collaborated with a developer client to transform Figma designs into HTML/CSS code, crafting tiny, efficient JavaScript snippets for dashboard components on Sodic's website.<br/>We optimized for a React integration, ensuring responsive design standards, and created reusable web components to streamline development.",
+    "link": "https://www.sodic.com/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "BootStrap",
+      "Web Component",
+      "Responsive Design"
+    ]
+  },
+  {
+    "image": "metasoccer",
+    "image_hover": "metasoccer_hover",
+    "title": "Metasoccer",
+    "popTitle": "Figma Conversion for MetaSoccer with Bootstrap and Smooth Scroll.",
+    "desc": "Delivered a sleek conversion of a Figma design to a responsive HTML/CSS layout for the MetaSoccer website, incorporating smooth scroll animations and Bootstrap framework.<br/>Skills like Sass preprocessor and advanced CSS3 techniques were key to refining the user experience and interface.",
+    "link": "https://metasoccer.com/",
+    "skills": ["HTML", "CSS", "Sass", "Landing Page", "Animation", "BootStrap"]
+  },
+  {
     "image": "eraf",
-    "bg": "eraf_bg",
+    "image_hover": "eraf_hover",
     "title": "E-Raf",
-    "desc": "",
+    "popTitle": "Custom Subscription Page Design & Development with RTL Support.",
+    "desc": "Project involved designing and developing a custom subscription page for E-raf's MIT Sloan magazine, tailored to accommodate Arabic readers with full RTL support.<br/>Leveraged web design expertise, CSS3, HTML, and JavaScript to construct the page, integrating subtle animations and ensuring cross-browser compatibility.<br/>Focused on creating an engaging user experience in both English and Arabic.",
     "link": "https://e-raf.aspdkw.com/pages/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%A8%D9%85%D8%AC%D9%84%D8%A9-mit-sloan",
     "skills": [
       "HTML",
       "CSS",
+      "jQuery",
       "RTL",
       "Landing Page",
       "Animation",
+      "Web Design",
       "Responsive Design"
     ]
   },
   {
+    "image": "atmac",
+    "image_hover": "atmac_hover",
+    "title": "Atmac Construction",
+    "popTitle": "ATMAC Responsive Redesign: Bootstrap Optimization and Custom CSS for Cross-Device Compatibility.",
+    "desc": "Fine-tuned ATMAC, addressing extensive responsiveness issues by expertly overhauling Bootstrap implementations and integrating tailored CSS media queries within PHP scripts.<br/>My critical intervention transformed a once rigid interface into a dynamically responsive experience, ensuring visual harmony and functional performance across all devices, thus elevating the site's professional appeal.",
+    "link": "https://www.atmac.co.uk/",
+    "skills": ["HTML", "CSS", "JavaScript", "BootStrap", "PHP"]
+  },
+  {
+    "image": "bestbargainjunkremoval",
+    "image_hover": "bestbargainjunkremoval_hover",
+    "title": "Best Bargain Junk Removal",
+    "popTitle": "Best Bargain Junk Site: PSD to Animated HTML/CSS/JS in 1 Week.",
+    "desc": "Rising to the challenge of an urgent one-week deadline, I expertly converted a PSD for Best Bargain Junk Removal into a feature-rich, responsive, and animated HTML/CSS/JS website.<br/>My deep knowledge of front-end development ensured a high-quality result that encapsulates scroll-triggered animations, maintaining performance and delivering on time.",
+    "link": "https://bestbargainjunkremoval.com/",
+    "skills": ["HTML", "CSS", "JavaScript", "BootStrap"]
+  },
+  {
+    "image": "crowdproperty",
+    "image_hover": "crowdproperty_hover",
+    "title": "Crowd Property",
+    "popTitle": "CrowdProperty Site Redesign: InVision to Interactive Web in 7 Days.",
+    "desc": "I meticulously transformed an InVision design prototype into an engaging, responsive, and interactive HTML/CSS/JS website for CrowdProperty, adhering to a stringent one-week timeframe.<br/>My comprehensive web development expertise was instrumental in piloting this crucial project, guaranteeing that each responsive facet was crafted with precision.<br/>My steadfast commitment to excellence and adaptability was key in producing a high-performance website that faithfully represents CrowdProperty's Responsibility & Sustainability Report, attentively preserving the fine details that distinguish an elite web presence.",
+    "link": "https://www.crowdproperty.com/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "jQuery",
+      "BootStrap",
+      "DataTables",
+      "Responsive Design"
+    ]
+  },
+  {
+    "image": "peopledesigns",
+    "image_hover": "peopledesigns_hover",
+    "title": "People Designs",
+    "popTitle": "People Designs Digital Portfolio: Figma to Responsive Web Conversion.",
+    "desc": "Successfully converted a Figma design into a responsive HTML/CSS/JavaScript site for People Designs.<br/>Delivered a compelling digital portfolio with heightened interactivity and seamless hosting integration.<br/>Demonstrated proficiency in HTML, CSS3, and JS, resulting in an attractive and operational landing page.",
+    "link": "https://www.peopledesigns.com/",
+    "skills": ["HTML", "CSS", "JavaScript", "BootStrap"]
+  },
+
+  {
     "image": "olympus",
-    "bg": "olympus_bg",
+    "image_hover": "olympus_hover",
     "title": "Olympus Game",
-    "desc": "",
+    "popTitle": "Olympus Game Website Redesign: Full-Scale HTML5/CSS3/JS and GSAP Integration.",
+    "desc": "Elevated the Olympus Game's digital presence by masterfully redesigning the website.<br/>Employed HTML5, CSS3, and JavaScript, enhanced with GSAP for stunning, high-performance animations, ensuring seamless interaction.<br/>Now optimized for all devices, the site preserves its immersive graphics and swift navigation regardless of screen size.",
     "link": "https://olympus.game/",
     "skills": ["HTML", "CSS", "Landing Page", "GASAP", "Responsive Design"]
   },
   {
     "image": "casttypes",
-    "bg": "casttypes_bg",
-    "title": "Cast Types",
-    "desc": "",
+    "image_hover": "casttypes_hover",
+    "title": "CastTypes",
+    "popTitle": "CastTypes Figma to Interactive Website Transformation with GSAP Animation Excellence.",
+    "desc": "I meticulously transformed CastTypes' vision from a static Figma design into a dynamic, responsive website that exemplifies pixel-perfection and interactive excellence.<br/>Through a deep understanding of HTML, CSS, and JavaScript, I created a digital platform that adapts seamlessly across devices for a consistent, engaging user journey.<br/>The strategic use of GSAP (GreenSock Animation Platform) animates CastTypes' interface elements with sophistication.<br/>My expertise enables fluid animations that transform static visuals into a compelling narrative, enhancing the browsing experience.<br/>A commitment to detail ensures every animation and transition not only dazzles but is also optimized for functionality, fostering a robust, immersive experience.",
     "link": "https://casttypes.com/",
     "skills": ["HTML", "CSS", "Landing Page", "GASAP", "Responsive Design"]
   },
   {
-    "image": "umart",
-    "bg": "umart_bg",
-    "title": "U Mart",
-    "desc": "",
-    "link": "",
-    "skills": [
-      "HTML",
-      "CSS",
-      "Bootstrap",
-      "Javascript",
-      "RTL",
-      "Responsive Design",
-      "Wordpress"
-    ]
-  },
-  {
     "image": "fele3eb",
-    "bg": "fele3eb_bg",
+    "image_hover": "fele3eb_hover",
     "title": "Feele3eb",
-    "desc": "",
+    "popTitle": "Responsive Front-End Dev for Arabic-Supportive Stadium Booking Site.",
+    "desc": "Our team prioritized inclusivity by integrating Arabic into our stadium booking website, ensuring broad accessibility.<br/>I converted Adobe XD designs into a responsive front-end, aligning right-to-left text and language nuances using HTML, CSS, and JavaScript.<br/>UI/UX collaboration was key for Arabic script compatibility, while backend integration supported language specifics.<br/>Through comprehensive testing, we launched a seamless, bilingual platform, catering to both Arabic and English speakers.",
     "link": "https://fele3eb.com/",
     "skills": ["HTML", "CSS", "jQuery", "RTL", "Responsive Design", "WepApp"]
   },
   {
+    "image": "virualm",
+    "image_hover": "virualm_hover",
+    "title": "VirtualM",
+    "popTitle": "PNG to Bootstrap Dashboard Conversion with Responsive HTML/JS.",
+    "desc": "I efficiently transformed static PNG images into a dynamic and responsive dashboard template, utilizing the robust framework of Bootstrap.<br/>My core deliverables included crafting clean, well-structured HTML, seamless JavaScript functionality, and a meticulously responsive design to ensure optimal user experience across various devices and screen sizes.<br/>The project showcased my ability to interpret design cues and translate graphical assets into a fully functional and interactive dashboard.",
+    "link": "",
+    "skills": ["HTML", "CSS", "JavaScript", "BootStrap", "Responsive Design"]
+  },
+  {
+    "image": "umart",
+    "image_hover": "umart_hover",
+    "title": "U-Mart",
+    "popTitle": "UMART E-Commerce Transformation: Figma Design to HTML/CSS/JS Execution with Arabic RTL Support.",
+    "desc": "Skills in HTML/CSS/JS and API integration transform Figma concepts into a robust UMART e-commerce site.<br/>Experience seamless, pixel-perfect browsing with intuitive navigation.<br/>It fully supports Arabic RTL for a comprehensive user experience.",
+    "link": "",
+    "skills": [
+      "HTML",
+      "CSS",
+      "BootStrap",
+      "JavaScript",
+      "RTL",
+      "Responsive Design",
+      "WordPress"
+    ]
+  },
+  {
     "image": "lavastonespa",
-    "bg": "lavastonespa_bg",
+    "image_hover": "lavastonespa_hover",
     "title": "Lava Stone Spa",
-    "desc": "",
+    "popTitle": "LavaStone Spa Website: Adobe XD to Multilingual Interface with Arabic Support.",
+    "desc": "Our team emphasized inclusivity by embedding Arabic support in the LavaStone Spa booking website, broadening access.<br/>I translated Adobe XD designs to a responsive front end, enabling right-to-left text and language adaptations with HTML, CSS, and JavaScript.<br/>Collaborating with UI/UX designers was essential to ensure script accuracy, and careful backend integration catered to language requirements.<br/>Rigorous pre-launch testing ensured a seamless bilingual interface, culminating in a culturally considerate platform for both Arabic and English users.",
     "link": "",
     "skills": ["HTML", "CSS", "jQuery", "RTL", "Responsive Design", "WepApp"]
+  },
+  {
+    "image": "betgame",
+    "image_hover": "betgame_hover",
+    "title": "Bet Game",
+    "popTitle": "Figma to Responsive HTML/CSS/JS Conversion for Streaming Platform.",
+    "desc": "Expertly converted BetGame's streaming platform from Figma to HTML/CSS/JS, ensuring an interactive and responsive user interface.<br/>Integrated Bootstrap for robust design, and employed DataTables for enhanced data interaction.<br/>Managed efficient code deployment via FTP.",
+    "link": "",
+    "skills": ["HTML", "CSS", "JavaScript", "DataTables", "Responsive Design"]
+  },
+  {
+    "image": "scopebuilder",
+    "image_hover": "scopebuilder_hover",
+    "title": "Scope Builder",
+    "popTitle": "Responsive Dashboard Development from XD to HTML/CSS/JS.",
+    "desc": "Crafted a dynamic, responsive dashboard by converting Adobe XD designs into streamlined HTML, CSS, and JavaScript code.<br/>Ensured compatibility across all devices, enhancing user interaction and functionality.<br/>The project demanded a keen eye for detail and profound coding skills to replicate the design accurately and to provide an optimal user experience.",
+    "link": "",
+    "skills": ["HTML", "CSS", "JavaScript", "Responsive Design"]
+  },
+  {
+    "image": "coinsteller",
+    "image_hover": "coinsteller_hover",
+    "title": "Coins Teller",
+    "popTitle": "Adobe XD to Responsive HTML: Bootstrap-Enhanced Dashboard Conversion.",
+    "desc": " In this project, I successfully converted Coinsteller's dashboard from Adobe XD designs into fully functional HTML, CSS, and JavaScript code, with specific focus on achieving a fluid responsive design suitable for multiple devices and screen sizes.<br/>Leveraging my expertise in Bootstrap, I ensured that the dashboard's layout and features adapted seamlessly across platforms, enhancing the user experience without sacrificing the design's integrity.<br/>The outcome was an interactive and user-engaging dashboard interface, showcasing my commitment to responsive design principles and attention to detail.",
+    "link": "",
+    "skills": ["HTML", "CSS", "BootStrap", "JavaScript", "Responsive Design"]
   }
 ]
